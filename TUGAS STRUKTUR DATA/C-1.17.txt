@@ -1,0 +1,1 @@
+This wouldn't have worked. val is an alias to the actual element in data and assigning a new object to it will only change val's value.
